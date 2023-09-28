@@ -1,4 +1,5 @@
 from django.db import models
+from spend import models as spend
 
 # Create your models here.
 class RevenueStatistic(models.Model):
